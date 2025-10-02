@@ -71,7 +71,7 @@ function AboutCard() {
           Contact Information<br />
           📧 Email: farrelmuhammadrizkywibawa@email.com <br />
           💼 LinkedIn: Farrel Muhammad Rizky Wibawa <br />
-          🌐 Website/Portfolio: yourportfolio.com <br />
+          🌐 Website/Portfolio: fw-taupe-six.vercel.app <br />
           📱 WhatsApp: +6281285377443  <br />
           </p>
         </blockquote>
